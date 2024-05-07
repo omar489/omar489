@@ -41,8 +41,9 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
+        <a href="https://github.com/omar489">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar489&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-       
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -74,28 +75,24 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/omar489" target="_blank">
+ <a href="https://www.linkedin.com/in/omar-a-eldesouky" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:omar489@gmail.com" target="_blank">
+<a href="mailto:omar.awad.eldesouky@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/omar489" target="_blank">
+<a >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/omar489" target="_blank">
+<a>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/omar489" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 <!--Footer--> 
 <p align="center">
