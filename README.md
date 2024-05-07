@@ -34,10 +34,12 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=csharp,dotnet,angular,html,css,js,ts,sqlserver,mongodb,azure,github&perline=5"  />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" />
 </p>
+
 <br />
 
 <!--Trophies Section-->   
