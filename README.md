@@ -1,4 +1,3 @@
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -28,11 +27,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8&scale=1.5" alt="Languages and Tools Row 1" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,python,bootstrap,cpp,c,typescript&perline=8&scale=1.5" alt="Languages and Tools Row 2" />
 </p>
-
-
-
-
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
