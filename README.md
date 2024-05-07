@@ -4,9 +4,9 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HELLO ɪ'ᴍ ᴏᴍᴀʀ! 
-*Full Stack .NET Developer*
-<br /> 
+<h1 style="font-family: Arial, sans-serif; font-size: 24px; font-weight: normal;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses emoji"/> HELLO I'M OMAR!
+</h1>
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack .NET Developer with a deep expertise in developing and implementing web solutions using a range of technologies including C#, ASP.NET, and Microsoft Azure. </p>
