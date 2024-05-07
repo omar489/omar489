@@ -13,11 +13,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/omar489).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_omar).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://omar489.github.io) for more details about me.
+- 💻 Visit my [Portfolio]([https://omar489.github.io](https://drive.google.com/file/d/1Vq090GNNyPmnTHZVt8hDt1LH7LxoUaGX/view?usp=drive_link)) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -44,9 +41,8 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/omar489">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar489&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
+       
       </p>
     </td>
     <td width="50%">
