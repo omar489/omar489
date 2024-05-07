@@ -43,6 +43,10 @@
 </p>
 <br />
 
+<!--Intro-->               
+<p align="left">I am a Full Stack .NET Developer with a deep expertise in developing and implementing web solutions using a range of technologies including C#, ASP.NET, and Microsoft Azure. </p>
+
+
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
