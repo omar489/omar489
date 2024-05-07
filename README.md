@@ -26,7 +26,7 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8&scale=1.5" alt="Languages and Tools Row 1" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,python,csharp,cpp,c,typescript&perline=8&scale=1.5" alt="Languages and Tools Row 2" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,python,bootstrap,cpp,c,typescript&perline=8&scale=1.5" alt="Languages and Tools Row 2" />
 </p>
 
 
