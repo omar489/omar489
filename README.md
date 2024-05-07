@@ -24,9 +24,11 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omar489&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="omar489" style="padding-right:20px;" />
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" />
 </p>
+
 
 ---
 <br />
