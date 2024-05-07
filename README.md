@@ -30,17 +30,7 @@
 </p>
 
 
----
-<br />
 
-<!--Languages and Tools Section-->       
-
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" />
-</p>
-
-<br />
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
