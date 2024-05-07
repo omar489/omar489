@@ -31,21 +31,12 @@
 ---
 <br />
 
-<!--Technical Skills Section-->       
-<h2 align="center">Tᴇᴄʜɴɪᴄᴀʟ Sᴋɪʟʟs</h2> 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <b>Programming Languages:</b> C#, C++, JavaScript, TypeScript, C<br/>
-  <b>Backend Technologies:</b> Entity Framework Core, .NET Web API, ASP.NET, .NET Core, .NET MVC, SignalR, LINQ, ADO.NET<br/>
-  <b>Frontend Technologies:</b> HTML5, Angular, CSS3, jQuery, Bootstrap<br/>
-  <b>Databases:</b> SQL Server, MongoDB<br/>
-  <b>Microsoft Dynamics 365 Apps & Tools:</b> Microsoft Dynamics 365, Power BI, Power Apps, XRM ToolBox<br/>
-  <b>DevOps:</b> Microsoft Azure, GitHub
+<img width="500px"  src="https://skillicons.dev/icons?i=csharp,dotnet,angular,html,css,js,ts,sqlserver,mongodb,azure,github&perline=5"  />
 </p>
 <br />
-
-<!--Intro-->               
-<p align="left">I am a Full Stack .NET Developer with a deep expertise in developing and implementing web solutions using a range of technologies including C#, ASP.NET, and Microsoft Azure. </p>
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -98,19 +89,19 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/omar489" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:omar489@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omar489@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/omar489" target="_blank">
-img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=omar489 Instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/omar489" target="_blank">
-img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="omar489 Twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
