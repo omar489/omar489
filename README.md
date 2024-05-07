@@ -1,5 +1,3 @@
-<!--Banner-->
-![omar489 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -24,11 +22,12 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
+
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,python&perline=4" alt="Additional Tools" />
 </p>
-
 
 
 
