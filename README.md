@@ -11,7 +11,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack .NET Developer with a deep expertise in developing and implementing web solutions using a range of technologies including C#, ASP.NET, and Microsoft Azure. </p>
 
-- ✨ Student of life :)
+
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio]([https://omar489.github.io](https://drive.google.com/file/d/1Vq090GNNyPmnTHZVt8hDt1LH7LxoUaGX/view?usp=drive_link)) for more details about me.
