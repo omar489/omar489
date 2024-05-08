@@ -18,8 +18,8 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<br>
-<h2 align="center">Languages and Tools</h2>
+
+<h1 align="center">Languages and Tools</h1>
 
 <p align="center">
   <br>
